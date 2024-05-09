@@ -3,7 +3,7 @@ date: '2023-07-19'
 title: 'Full Stack Automation Engineer'
 company: 'Disrupt Social'
 location: 'Remote'
-range: 'May 2021 - Present'
+range: 'May 2022 - Present'
 url: 'https://www.disrupt.social/'
 ---
 
